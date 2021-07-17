@@ -35,5 +35,6 @@ Everyone should compulsory follow the below instruction in order to get the atte
 6. Types of variables in stastics
 
 [[DayNo_Notebook_Link]](Day5-MLIntro)
+
 [[DayNo_Recorded_Video_Link]]()
 *************************
