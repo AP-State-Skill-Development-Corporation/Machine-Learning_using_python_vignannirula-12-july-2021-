@@ -1,5 +1,5 @@
 ![APSSDC-LOGO](https://drive.google.com/uc?export=download&id=15AKQ6_-BixW4K6mL6RPphF5EKXqYF2zj)
-# Machine-Learning-Using-Python
+# Machine-Learning-Using-Python-VNIEW(12-07-2021)
 
 This repository consists of all the files, resources, and recorded session links which are discussed during Machine Learning using Python Online Training.
 <!---
