@@ -38,3 +38,16 @@ Everyone should compulsory follow the below instruction in order to get the atte
 
 [[DayNo_Recorded_Video_Link]]()
 *************************
+## Day6-Simple Linear Regresiion
+- Diffent types of machine learning algorithems
+- Simple Linear Regression
+    - Intution 
+    - statistical Formula's
+    - Evolution Metrics 
+
+[[Day5-_Notebook_Link]](Day6-Regression)
+
+[[DayNo_Recorded_Video_Link]]()
+
+*************************
+
