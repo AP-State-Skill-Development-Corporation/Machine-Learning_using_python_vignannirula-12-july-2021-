@@ -34,7 +34,7 @@ Everyone should compulsory follow the below instruction in order to get the atte
 5. ML life cycle
 6. Types of variables in stastics
 
-[[DayNo_Notebook_Link]](Day5-MLIntro)
+[[Day5-_Notebook_Link]](Day5-MLIntro)
 
 [[DayNo_Recorded_Video_Link]]()
 *************************
