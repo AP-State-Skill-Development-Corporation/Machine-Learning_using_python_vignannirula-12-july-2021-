@@ -25,24 +25,15 @@ Everyone should compulsory follow the below instruction in order to get the atte
 
 
 #### Check your attendance [Here]()
-<!-----
-******************************
-Reference purpose follow this below things
+****************************
+## Day5-MLIntro
+1. Ml Introduction
+2. ML Types
+3. Ml Use cases
+4. Difference b/w ML AI,DL
+5. ML life cycle
+6. Types of variables in stastics
 
-1. Commit message format
-- For content updation -- Added dayNo discussed content
--For Readme.md file updation --  Updated dayNo content
--For resources.md file updation --  Updated resourceName
-
-2.README.md content
-
-DayNo SampleLessonName (Date)
-
-Discussed Concepts:
-1. Topic-1
-2. Topic-2
-
-[[DayNo_Notebook_Link]]()
+[[DayNo_Notebook_Link]](Day5-MLIntro)
 [[DayNo_Recorded_Video_Link]]()
 *************************
---->
