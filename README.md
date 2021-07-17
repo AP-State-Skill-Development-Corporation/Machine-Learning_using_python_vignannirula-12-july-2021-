@@ -7,7 +7,6 @@ This repository consists of all the files, resources, and recorded session links
 
 #### Gotomeeting Link → [[Click Here to Join]](meetingLink) → Meeting Id → 
 
-#### Check your attendance [Here]()
 --->
 
 #### APSSDC-ML-Datasets → [[Click Here]](https://github.com/AP-State-Skill-Development-Corporation/Datasets)
@@ -24,6 +23,8 @@ Everyone should compulsory follow the below instruction in order to get the atte
 4. Make sure roll number should match with the registered roll number
 5. Minimum **`120/150`** minutes should attend in **`150/180 minutes`** session with same login format
 
+
+#### Check your attendance [Here]()
 <!-----
 ******************************
 Reference purpose follow this below things
