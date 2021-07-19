@@ -50,4 +50,18 @@ Everyone should compulsory follow the below instruction in order to get the atte
 [[DayNo_Recorded_Video_Link]]()
 
 *************************
+## Day7-Simple Linear Regresiion(19-07-2021)
+- Linear Regression with Multiple variables
+    - Linear Equation
+    - Preprocessing data
+    - Evalution Metrics for LR
+- Non-Linear Regression
+- Polynomial Regression
+    - formula
+        - y=ax^2+bx^1+cx^0+c+e
+    - Transforming normal features into polynomail features with degree
+    - Finfinding the evalution metrics of model
+
+
+[[Day7-_Notebook_Link]](Day7-LR%20with%20Multiple%20variables)
 
