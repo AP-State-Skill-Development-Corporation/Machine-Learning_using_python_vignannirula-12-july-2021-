@@ -64,4 +64,12 @@ Everyone should compulsory follow the below instruction in order to get the atte
 
 
 [[Day7-_Notebook_Link]](Day7-LR%20with%20Multiple%20variables)
+## Day8-Regularization(20-07-2021)
+- what us over fitting
+- what is under fitting
+- How to handle that over fitting and under fitting problems in ML
+- Bias,Variance
+- Calculations behind the L1 & L2 Regularisation's
+
+[[Day8 -note book]](Day8-over%20fitting%2C%20under%20fitting)
 
